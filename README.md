@@ -6,7 +6,7 @@ Hello, I am fizla/fizz
 
 - I am 15 years old and I love lua
 
-  - Lua is the perfect mix of py and javascript
+  - All projects on pause as I am lazy lol
 
 ## Stats
 
@@ -17,7 +17,7 @@ Hello, I am fizla/fizz
 
 ## My website and other stuff
 
-https://fizla.xyz
+https://fizla.xyz --unregistered as of like august 2023
 
 ## Daily Use
 
