@@ -8,7 +8,7 @@ Hello, I am fizla/fizz
 
   - All projects on pause as I am lazy lol
  
-  - i like to find vulnerabilities in stuff
+  - pentester rbx h1
 
 ## Stats
 
