@@ -4,7 +4,7 @@
 
 Hello, I am fizla/fizz
 
-- I am 14 years old and I love lua
+- I am 15 years old and I love lua
 
   - Lua is the perfect mix of py and javascript
 
