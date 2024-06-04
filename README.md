@@ -4,9 +4,11 @@
 
 Hello, I am fizla/fizz
 
-- I am 15 years old and I love lua
+- I am 15
 
   - All projects on pause as I am lazy lol
+ 
+  - i like to find vulnerabilities in stuff
 
 ## Stats
 
