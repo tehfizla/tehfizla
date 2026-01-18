@@ -19,7 +19,7 @@ Hello, I am fizla/fizz
 
 ## My website and other stuff
 
-https://fizla.xyz --unregistered as of like august 2023
+https://fizla.xyz --Back online as of 1/17/26
 
 ## Daily Use
 
