@@ -15,7 +15,7 @@ Hello, I am fizla/fizz
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tehfizla&theme=dracula&short_numbers=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tehfizla&theme=dracula)
 
 ## My website and other stuff
 
