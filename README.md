@@ -15,7 +15,7 @@ Hello, I am fizla/fizz
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tehfizla&theme=tokyonight" alt="mystreak"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehfizla)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My website and other stuff
 
