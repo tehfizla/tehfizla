@@ -5,17 +5,7 @@
 Hello, I am fizla/fizz
 
 - I am 17
-
-  - All projects on pause as I am lazy lol
- 
   - pentester rbx h1
-
-## Stats
-
-
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=tehfizla&theme=dracula)
 
 ## My website and other stuff
 
